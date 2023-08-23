@@ -1,7 +1,8 @@
 <?php
 
 $routes = [
-    '/todo-list/' => 'views/home.html'
+    '/todo-list/' => 'views/home.html',
+    '/todo-list/sign-in' => 'views/sign-in.html'
     // more routes to be defined
 ];
 
